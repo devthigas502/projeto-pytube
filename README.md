@@ -3,12 +3,12 @@
 ## Crie um ambiente virtual
 
 ```console
-python3 -m venv venv-pytube
+python -m venv venv-pytube
 
 ```
 ## Ative o ambiente virtual - Windows
 ```console
-venv-pytube\Scripts\activate.bat
+venv-pytube\Scripts\activate
     
 ```
 
